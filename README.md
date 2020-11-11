@@ -29,25 +29,25 @@ After read the files and build the data center, enter into console mode.
 In console mode does four searches by specific commands:
 
 * movie < prefix >
-Returns all movies with these prefix showing:
-movieID, title, genres, rating, count
+    * Returns all movies with these prefix showing:
+    * movieID, title, genres, rating, count
 
 * user < userID >
-Returns all the movies analysed by this user showing:
-user_rating, title, global_rating, count
+    * Returns all the movies analysed by this user showing:
+    * user_rating, title, global_rating, count
 
 * top < N > < genre >
-Returns all the N best rated movies with at least 1000 ratings, showing:
-title, genres, rating, count
+    * Returns all the N best rated movies with at least 1000 ratings, showing:
+    * title, genres, rating, count
 
 * tag < "tag1" "tag2" ... "tagN" >
-Return all movies related to these tags, showing:
-title, genre, rating, count
+    * Return all movies related to these tags, showing:
+    * title, genre, rating, count
 
 
 ## Cubes Reduction in Karnaugh's Map
 Program:
-* [Cubes Reduction]()
+* [Cubes Reduction](https://github.com/Xandynhu/Algorithms/tree/main/src/Projects/Cubes%20Reduction%20Karnaugh's%20Map)
 
 Description:
 

@@ -47,7 +47,7 @@ In console mode does four searches by specific commands:
 
 ## Cubes Reduction in Karnaugh's Map
 Program:
-* [Cubes Reduction](https://github.com/Xandynhu/Algorithms/tree/main/src/Projects/Cubes%20Reduction%20Karnaugh's%20Map)
+* [Cubes Reduction](https://github.com/Xandynhu/Algorithms/tree/main/Projects/Cubes%20Reduction%20Karnaugh's%20Map)
 
 Description:
 

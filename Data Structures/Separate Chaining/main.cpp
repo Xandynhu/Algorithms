@@ -12,9 +12,8 @@ using namespace std;
 int empty_rate;
 
 void printVector(vector<string> a){
-    for (int i  = 0 ; i < a.size() ; i++){
+    for (int i  = 0 ; i < a.size() ; i++)
         cout << a[i] << endl;
-    }
     cout << endl;
 }
 
@@ -24,10 +23,9 @@ bool isPrime(int n){
 
     if (n % 2 == 0 || n % 3 == 0) return false;
 
-    for (int i=5 ; i*i <= n ; i = i+6){
+    for (int i=5 ; i*i <= n ; i = i+6)
         if (n % i == 0 || n % (i + 2) == 0)
             return false;
-    }
 
     return true;
 }
@@ -62,10 +60,7 @@ int readFile(string file_name, vector<string> *names){
     file.close();
 
     return out;
-
 }
-
-
 
 int main(){
     fstream nomes;

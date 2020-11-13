@@ -6,6 +6,10 @@
 
 ## Hash Tables
 
+*[Linear Probing](https://github.com/Xandynhu/Algorithms/tree/main/Data%20Structures/Linear%20Probing)
+
+*[Separate Chaining](https://github.com/Xandynhu/Algorithms/tree/main/Data%20Structures/Separate%20Chaining)
+
 ## Lists
 
 ## Trees

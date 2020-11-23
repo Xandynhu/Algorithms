@@ -14,6 +14,8 @@
 
 ## Trees
 
+* [BST - Binary Search Tree]()
+
 # Projects
 
 ## Movies Data Center
